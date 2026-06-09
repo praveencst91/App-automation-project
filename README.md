@@ -1,4 +1,4 @@
 # App-automation-project
 launch the app
-enter the pin
+enter the 6 digit code
 tap sign in

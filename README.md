@@ -1,4 +1,4 @@
 # App-automation-project
 launch the app
-enter the pin
-tap sign in
+enter the code
+tap login
